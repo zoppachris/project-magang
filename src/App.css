@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.Card {
+  width: 25rem;
+  height: 10vh;
+  border: 2px black solid;
 }
 
 .App-logo {
